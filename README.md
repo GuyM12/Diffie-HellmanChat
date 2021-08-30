@@ -1,4 +1,4 @@
-The project is Diffie-Hellman Chat between bob and alice. Bob and alice are a one computer bot and you will chat with yourself, however the chat represent the special encrytption and key transfer.
+The project is Diffie-Hellman LIKE Chat (the simplest way to discribe the algorithm through code) between bob and alice. Bob and alice are a one computer bot and you will chat with yourself, however the chat represent the special encrytption and key transfer.
 
 **Key.Java** - Represent a key object (The key is being used to encrypt and decrypt a messege).
 
